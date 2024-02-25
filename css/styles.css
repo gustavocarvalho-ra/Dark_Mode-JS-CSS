@@ -124,3 +124,23 @@ margin-bottom: 1rem;
 .dark .bi-moon {
   display: block;
 }
+
+.dark .card {
+  background-color: #37474f;
+}
+
+.dark .card-image {
+  background-color: #273035;
+}
+
+.dark .subtitle {
+  color: #67b4f3;
+}
+
+.dark .description {
+  color: #2196f3;
+}
+
+.dark .btn {
+  background-color: #67b4f3;
+}
