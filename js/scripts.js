@@ -13,7 +13,7 @@ function loadTheme() {
     toggleDarkMode();
   }
 }
-
+loadTheme();
 
 changeThemeBtn.addEventListener("change", function() {
   toggleDarkMode();
